@@ -1,0 +1,8 @@
+aws:
+  access-key: <access-key>
+  secret-key: <secret-key>
+  region: us-east-1
+  endpoint: https://dynamodb.us-east-1.amazonaws.com
+
+server:
+  port: 8081
